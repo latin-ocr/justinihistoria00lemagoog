@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./justinihistoria00lemagoog_0006.png"; bbox 0 0 2967 4684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 239 1675 1208 1908">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 239 1675 1208 1908">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 1675 1208 1908; baseline -0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 239 1675 241 1678; x_wconf 9' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 359 1806 366 1812; x_wconf 92' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 536 1771 942 1908; x_wconf 83' lang='lat' dir='ltr'>JUSTINI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1044 1801 1053 1812; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1205 1775 1208 1778; x_wconf 69' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 288 2033 1326 2236">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 13 2027 1326 2280">
+     <span class='ocr_line' id='line_1_2' title="bbox 288 2033 1326 2236; baseline -0.004 -18.047"><span class='ocrx_word' id='word_1_6' title='bbox 288 2033 1230 2236; x_wconf 57' lang='lat' dir='ltr'>HISTORIAEPHIL&#39;·1&#39;PPI&lt;2AE¹</span> <span class='ocrx_word' id='word_1_7' title='bbox 1321 2082 1326 2091; x_wconf 84' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 458 2361 1410 2492">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 458 2361 1410 2492">
+     <span class='ocr_line' id='line_1_3' title="bbox 458 2361 1410 2492; baseline -0.007 -2"><span class='ocrx_word' id='word_1_8' title='bbox 458 2413 1025 2492; x_wconf 76' lang='lat' dir='ltr'>EXTROGOPOMPfflo.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1084 2469 1087 2474; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1147 2361 1151 2366; x_wconf 61' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1252 2473 1258 2484; x_wconf 90' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1404 2418 1410 2431; x_wconf 55' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1488 4684">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1488 4684">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1488 4684; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1488 4684; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
